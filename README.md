@@ -1,4 +1,4 @@
-### 안녕하세요  👋
+### 안녕하세요 신입개발자 진현덕입니다  👋
 
 <!--
 **dukjjang/dukjjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
